@@ -8,4 +8,3 @@ The DoubleCipher class is able to check whether the decryption password is corre
 The repo is work in progress. Next steps:
 - Adding cli arguments
 - Adding file support
-- 
